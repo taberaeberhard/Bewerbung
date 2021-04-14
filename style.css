@@ -1,0 +1,23 @@
+#body {
+  background-color: #FFFFCC;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+#header {
+  background-color: #CCCCFF;
+  height: 100px;
+
+}
+#header-title {
+  display: block;
+  float: left;
+}
+#header-nav {
+  display: block;
+  float: left;
+}
+#footer {
+background-color: #FFFFCC;
+height: 100px; 
+}
